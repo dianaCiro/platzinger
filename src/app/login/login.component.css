@@ -1,0 +1,8 @@
+
+.loginContainer{
+    background-image: url("/assets/img/msnbg.jpg");/*fondo del component*/
+    background-size: contain; 
+    background-repeat: no-repeat; /*el contain va a cubrir todo el ancho no queremos que se esté rpitiendo*/
+    
+}
+
